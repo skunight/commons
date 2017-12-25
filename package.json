@@ -1,0 +1,17 @@
+{
+  "name": "commons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "randomstring": "^1.1.5",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
